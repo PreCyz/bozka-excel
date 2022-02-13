@@ -7,6 +7,7 @@ import java.util.Collection;
 
 @Data
 public class CustomTemplate {
+    private final String version;
     private final Appearance appearance;
     private final ColorRGB borderColor;
     private final ColorRGB backgroundColor;

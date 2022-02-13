@@ -1,4 +1,5 @@
 {
+  "version": "template-config-v1.json",
   "appearance": {
     "fontName": "Helv",
     "fontSize": 9,
@@ -21,7 +22,7 @@
   "fields": [
     {
       "name": "excelHeader1",
-      "value": "UserName",
+      "value": "to-be-set",
       "xPos": 25.0,
       "yPos": 350.0,
       "width": 70.0,
@@ -31,7 +32,7 @@
     },
     {
       "name": "excelHeader2",
-      "value": "UserName2",
+      "value": "to-be-set",
       "xPos": 100.0,
       "yPos": 350.0,
       "width": 70.0,
@@ -41,7 +42,7 @@
     },
     {
       "name": "excelHeader3",
-      "value": "UserName3",
+      "value": "to-be-set",
       "xPos": 175.0,
       "yPos": 350.0,
       "width": 70.0,
