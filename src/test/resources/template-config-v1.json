@@ -1,0 +1,53 @@
+{
+  "appearance": {
+    "fontName": "Helv",
+    "fontSize": 9,
+    "fontColor": {
+      "red": 0,
+      "green": 0,
+      "blue": 0
+    }
+  },
+  "borderColor": {
+    "red": 255,
+    "green": 255,
+    "blue": 255
+  },
+  "backgroundColor": {
+    "red": 255,
+    "green": 255,
+    "blue": 255
+  },
+  "fields": [
+    {
+      "name": "excelHeader1",
+      "value": "UserName",
+      "xPos": 25.0,
+      "yPos": 350.0,
+      "width": 70.0,
+      "height": 13.0,
+      "pageNumber": 1,
+      "printable": true
+    },
+    {
+      "name": "excelHeader2",
+      "value": "UserName2",
+      "xPos": 100.0,
+      "yPos": 350.0,
+      "width": 70.0,
+      "height": 13.0,
+      "pageNumber": 1,
+      "printable": true
+    },
+    {
+      "name": "excelHeader3",
+      "value": "UserName3",
+      "xPos": 175.0,
+      "yPos": 350.0,
+      "width": 70.0,
+      "height": 13.0,
+      "pageNumber": 1,
+      "printable": true
+    }
+  ]
+}
